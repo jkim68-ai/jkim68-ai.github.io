@@ -1,22 +1,25 @@
 # _quarto.yml
 project:
   type: website
-  
+
   output-dir: docs
-  
+
   render:
     - "index.qmd"  # index/landing page
     - "about.qmd"  # about page
     - "now.qmd"    # now page
     - "pages/"     # page files
     - "!posts/"    # don't render blog posts
-    #- "!pages/"   # to NOT render pages in this dir
-    #- "**/*.qmd"  # to render all pages
-  
-  preview: 
+
+  resources:
+    - "files/"     # always copy resume and photo into docs
+
+  preview:
     port: 1909
 
 website:
+  title: Josh Kim's Porfolio
+  site-url: https://jkim68-ai.github.io/
   #title: ""                        # omitted
   #site-url: https://yoursite.com   # needed for rss feed
   #description: ""                  # optional
