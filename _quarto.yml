@@ -3,6 +3,7 @@ project:
   type: website
   
   output-dir: docs
+  
   render:
     - "index.qmd"  # index/landing page
     - "about.qmd"  # about page
@@ -25,7 +26,7 @@ website:
   navbar:
     left: # left side of navbar
       - href: index.qmd               # index/home page
-        text: "My Name or Site Title" # home page title (instead of title:)
+        text: "Josh Kim" # home page title (instead of title:)
       
       - href: now.qmd               # my now page
         text: Now                   # now page title
@@ -35,7 +36,7 @@ website:
         text: About                 # about page title
 
       # optional resume; comment out it not desired
-      - href: files/resume.pdf      # pdf file
+      - href: files/Joshua_Kim_Resume_10.26.pdf      # pdf file
         text: Resume                 # resume page title
         
       # pages without a dropdown
@@ -51,13 +52,9 @@ website:
 
     right: # right side of navbar 
       - icon: github
-        href: https://mygithub.com/
+        href: https://github.com/jkim68-ai/
       - icon: linkedin
-        href: https://www.linkedin.com/school/claremont-mckenna-college/posts/?feedView=all
-      - icon: twitter-x
-        href: https://x.com/CMCnews
-      - icon: bluesky
-        href: https://bsky.app/profile/cmc.edu
+        href: https://www.linkedin.com/in/joshua-kim-2893402ab/
 #      - icon: rss
 #        href: blog.xml
         

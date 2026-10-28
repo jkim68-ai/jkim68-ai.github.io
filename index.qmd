@@ -1,5 +1,5 @@
 ---
-title: "My Name"       # the title of the index page
+title: "Joshua Kim"       # the title of the index page
 about:
   # template types
   #template: jolla
@@ -13,22 +13,26 @@ about:
   links:
     # add others
     - icon: linkedin
-      href: https://www.linkedin.com/school/claremont-mckenna-college/posts/?feedView=all
+      href: https://www.linkedin.com/in/joshua-kim-2893402ab/
     - icon: twitter-x
       href: https://x.com/CMCnews
 
 ---
 
-I am a ... blah blah
+I’m a Senior at Claremont McKenna College studying Data Science and Psychology, and I play on the varsity men’s tennis team. I’m the founder and CEO of SEVA, a performance tennis apparel brand, and I’m currently a Strategy and Operations Intern at Indie Ridge, a direct-to-consumer motorcycle apparel brand. Having grown up between Hong Kong and the US, I’m drawn to fast-moving consumer brands and to using data to understand how people make decisions.
 
 ## Education
 
-Institution | City, State
-B.A in Degree | start - finish
+Claremont McKenna College | Claremont, California
+B.A in Psychology & Data Science | August 2023 - May 2027
 
 ## Experience
 
-Organization A | Title | start - finish
+Indie Ridge | Strategy & Operations Intern | June 2026 - Present
 
-Organization b | Title | start - finish
+SEVA Tennis | Founder & CEO | May 2026 - Present
+
+Jeu de Paume | Product & Media Consultant | May 2025 - October 2025
+
+Jimmy Choo | Marketing & PR Intern | June 2024 - August 2024
 
