@@ -36,7 +36,7 @@ website:
         text: About                 # about page title
 
       # optional resume; comment out it not desired
-      - href: files/Joshua_Kim_Resume_10.26.pdf      # pdf file
+      - href: files/resume.pdf      # pdf file
         text: Resume                 # resume page title
         
       # pages without a dropdown
